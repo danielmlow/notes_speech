@@ -12,7 +12,11 @@ These can be installed with:
 ``
 pip3 install <package1> <package2> <packageN>
 ``
+
+## View the code by clicking on speech_notes.ipynb
+## or
 ## Run this script in Jupyter Notebook
+
 ### MAC OS X / Linux
 1. Clone repository:
 ``` 
